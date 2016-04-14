@@ -1,0 +1,4 @@
+1. What happened when you initialized a repositry? Why do you need to do it?
+
+It initialized an empty git repository in the curret directory. You need to initialize git in order to use it.
+
